@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
 class TrainnerCourse extends Component{
     render(){
@@ -9,8 +9,8 @@ class TrainnerCourse extends Component{
                     <h2>{data.title}</h2>
                     <p>{data.subtitle}</p>
                 </div>
-            )
-        })
+            );
+        });
 
         const descriptionTrainner = trainner.map((description, key)=>{
             const div = description.description.map((data, i)=>{
@@ -20,10 +20,10 @@ class TrainnerCourse extends Component{
                         <span className="align-bottom">{data.trainer}</span>
                         <p>{data.description}</p>
                     </div>
-                )
-            })
+                );
+            });
             return div;
-        })
+        });
 
         return(
             <div className="row full-width justify-content-center trainer-course">
@@ -34,8 +34,8 @@ class TrainnerCourse extends Component{
                     </div>
                 </div>
             </div>
-        )
+        );
     }
 }
 
-export default TrainnerCourse
+export default TrainnerCourse;

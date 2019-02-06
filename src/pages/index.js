@@ -19,17 +19,7 @@ import StudentGraduate from "../components/studentGraduate";
 import FormSubscribe from "../components/formSubscribe";
 import Footer from "../components/footer";
 
-import Icon1 from "../components/iconTechnologies/icon1";
-import IconSass from "../components/iconTechnologies/sass";
-import IconHtml from "../components/iconTechnologies/html";
-import IconGit from "../components/iconTechnologies/git";
-import IconDb from "../components/iconTechnologies/db";
-import IconMysql from "../components/iconTechnologies/mysql";
-import IconJavascript from "../components/iconTechnologies/javascript";
-import IconBabel from "../components/iconTechnologies/babel";
-import Icon2 from "../components/iconTechnologies/icon2";
-import IconReact from "../components/iconTechnologies/react";
-import IconPython from "../components/iconTechnologies/python";
+import IconTech from "../components/iconTechnologies/iconTech.js";
 
 import "../sass/index.scss";
 
@@ -57,37 +47,28 @@ const BlogIndex = ({ data, location }) => {
       <TecnologiesRow 
         title="Learn and advanced stack of technologies to meet the demands that companies seek.">
         <div className="col-1">
-          <Icon1 />
+          <IconTech icon="babel"/>
         </div>
         <div className="col-1">
-          <IconSass />
+          <IconTech icon="db"/>
         </div>
         <div className="col-1">
-          <IconHtml />
+          <IconTech icon="git"/>
         </div>
         <div className="col-1">
-          <IconGit />
+          <IconTech icon="html"/>
         </div>
         <div className="col-1">
-          <IconDb />
+          <IconTech icon=""/>
         </div>
         <div className="col-1">
-          <IconMysql />
+          <IconTech icon=""/>
         </div>
         <div className="col-1">
-          <IconJavascript />
+          <IconTech icon=""/>
         </div>
         <div className="col-1">
-          <IconBabel />
-        </div>
-        <div className="col-1">
-          <Icon2 />
-        </div>
-        <div className="col-1">
-          <IconReact />
-        </div>
-        <div className="col-1">
-          <IconPython />
+          <IconTech icon=""/>
         </div>
       </TecnologiesRow>
       <LearningTechnologies />

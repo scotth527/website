@@ -10,14 +10,14 @@ class PriceFinancing extends Component{
         this.state = {
             showCircleMonth: true,
             selectMonth: ''
-        }
+        };
     }
 
     handleSelectMonth(key){
         console.log(key, 'llave!');
         this.setState({
             selectMonth: key
-        })
+        });
     }
 
     render(){
@@ -41,8 +41,8 @@ class PriceFinancing extends Component{
                     </div>
                     <p className="month">{data.duration}</p>
                 </div>
-            )
-        })
+            );
+        });
 
         return(
             <div className="row justify-content-center full-width pricing-financing">
@@ -87,8 +87,8 @@ class PriceFinancing extends Component{
                     </div>
                 </div>
             </div>
-        )
+        );
     }
 }
 
-export default PriceFinancing
+export default PriceFinancing;

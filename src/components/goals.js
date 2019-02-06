@@ -1,4 +1,4 @@
-import React, { Component } from "React";
+import React, { Component } from "react";
 
 import Icon1 from "../components/iconGoal/icon1";
 import Icon2 from "../components/iconGoal/icon2";

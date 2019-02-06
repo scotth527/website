@@ -1,4 +1,4 @@
-import React, { Component } from "React";
+import React, { Component } from "react";
 import { Link } from "gatsby";
 
 class Menu extends Component {
@@ -6,10 +6,12 @@ class Menu extends Component {
     const props = this.props;
     return (
       <div className="row full-width justify-content-center">
+
         <div className="col-md-12 no-padding">
           <nav className="navbar navbar-expand-lg navbar-light menu px-3 position-absolute w-100 pt-5">
             <a className="navbar-brand" href="#">
-              Logo
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5k5OBpVGmOPEISGcdwOt5B4g2nmMqcnqNV9OROyVnHfRsmYm88w" 
+              alt="logo"/>
             </a>
             <button
               className="navbar-toggler"
@@ -25,16 +27,16 @@ class Menu extends Component {
             <div className="collapse navbar-collapse">
               <ul className="navbar-nav ml-auto ul-menu">
                 <li className="nav-item item-menu">
-                  <Link to={"www.google.co.ve"}>The programs</Link>
+                  <Link to={"/"}>The programs</Link>
                 </li>
                 <li className="nav-item item-menu">
-                  <Link to={"www.google.co.ve"}>4G Academy</Link>
+                  <Link to={"/about-us"}>4G Academy</Link>
                 </li>
                 <li className="nav-item item-menu">
-                  <Link to={"www.google.co.ve"}>Partners</Link>
+                  <Link to={"/partners/"}>Partners</Link>
                 </li>
                 <li className="nav-item item-menu">
-                  <Link to={"www.google.co.ve"}>Upcoming programs</Link>
+                  <Link to={"/upcoming/"}>Upcoming programs</Link>
                 </li>
               </ul>
             </div>

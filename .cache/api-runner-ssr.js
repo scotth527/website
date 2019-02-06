@@ -1,17 +1,17 @@
 var plugins = [{
-      plugin: require('/Users/rafaelesaa/workspaces/website/node_modules/gatsby-plugin-typography/gatsby-ssr'),
+      plugin: require('/home/ubuntu/workspace/website/node_modules/gatsby-plugin-typography/gatsby-ssr'),
       options: {"plugins":[],"pathToConfigModule":"./src/utils/typography.js"},
     },{
-      plugin: require('/Users/rafaelesaa/workspaces/website/node_modules/gatsby-plugin-typography/gatsby-ssr'),
+      plugin: require('/home/ubuntu/workspace/website/node_modules/gatsby-plugin-typography/gatsby-ssr'),
       options: {"plugins":[],"pathToConfigModule":"./src/utils/typography.js"},
     },{
-      plugin: require('/Users/rafaelesaa/workspaces/website/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/home/ubuntu/workspace/website/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":""},
     },{
-      plugin: require('/Users/rafaelesaa/workspaces/website/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/home/ubuntu/workspace/website/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/rafaelesaa/workspaces/website/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('/home/ubuntu/workspace/website/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

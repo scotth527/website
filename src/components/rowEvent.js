@@ -1,4 +1,4 @@
-import React, { Component } from "React";
+import React, { Component } from "react";
 
 class RowEvent extends Component {
   render() {
@@ -12,7 +12,7 @@ class RowEvent extends Component {
             </div>
             <div className="box-2">
               <div>
-                <button type="button" class="btn btn-lg btn-1">
+                <button type="button" className="btn btn-lg btn-1">
                   Apply Now
                 </button>
                 <p className="pt-3 text-center">or review other dates</p>

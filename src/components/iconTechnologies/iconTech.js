@@ -24,7 +24,7 @@ const icons = {
     sass,
     tech1,
     technologieIcon
-}
+};
 
 class IconTech extends Component {
   render() {

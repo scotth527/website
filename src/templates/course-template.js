@@ -2,16 +2,16 @@ import React from "react";
 import { graphql } from "gatsby";
 import { StickyContainer, Sticky } from 'react-sticky';
 
-import Banner from "../components/banner";
-import Menu from "../components/menu";
-import DescriptionCourse from '../components/course-template/descriptionCourse'
-import MenuCourse from '../components/course-template/menuCourse'
+import Banner from "../components/banner.js";
+import Menu from "../components/menu.js";
+import DescriptionCourse from '../components/course-template/descriptionCourse';
+import MenuCourse from '../components/course-template/menuCourse';
 import CourseStructure from "../components/course-template/courseStructure";
 import DownloadPdf from "../components/downloadPdf";
 import TrainerCourse from "../components/course-template/trainnerCourse";
 import SkillsVertical from "../components/skillsVertical";
-import TecnologiesRow from '../components/technologies'
-import PriceFinancing from '../components/priceFinancing'
+import TecnologiesRow from '../components/technologies';
+import PriceFinancing from '../components/priceFinancing';
 import StudentGraduate from "../components/studentGraduate";
 import FormSubscribe from "../components/formSubscribe";
 import Footer from "../components/footer";
