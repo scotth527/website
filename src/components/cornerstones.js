@@ -5,7 +5,7 @@ class Cornerstones extends Component {
         const props = this.props;
         return (
             <div className="row">
-            <div className="col-6 mx-auto">
+            <div className="col-12 mx-auto">
                 <h1 className="mb-5 mt-5" style={{color:"yellow"}}>Our four cornerstones</h1>
                 <div>
                     <h1 className="text-light">Flipped Classroom</h1>

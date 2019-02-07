@@ -3,12 +3,14 @@ import React, { Component } from "react";
 import Background from "../img/night.jpg";
 
 export default class Banner extends Component {
+  
   render() {
+    console.log(Background);
     return (
       <div
         className="col-md-12 banner-page"
         style={{
-          backgroundImage: `url(${Background})`,
+          backgroundImage: `url("../img/night.jpg")`,
           height: `100vh`,
           backgroundSize: `cover`
         }}

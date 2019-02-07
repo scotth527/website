@@ -30,8 +30,18 @@
         "path": "/fullstack"
     },
     {
+        "componentChunkName": "component---src-templates-partners-js",
+        "jsonName": "partners-789",
+        "path": "/partners"
+    },
+    {
         "componentChunkName": "component---src-templates-location-template-js",
         "jsonName": "santiago-a6f",
         "path": "/santiago"
+    },
+    {
+        "componentChunkName": "component---src-templates-upcoming-programs-template-js",
+        "jsonName": "upcoming-programs-13d",
+        "path": "/upcoming-programs"
     }
 ]

@@ -35,8 +35,41 @@ body {
     margin: 0px;
 }
 
+.facts {
+    color:yellow;
+}
+
+.navbar, .dropdown-menu.show {
+    background-color:black;
+}
+
+a, {
+    color:white !important;
+    font-size: 16px;
+}
+
+a:hover {
+    color:yellow !important;
+    background-color:black !important;
+}
+
+.nav-link.dropdown-toggle {
+    padding-top:0px;
+}
+
+.dropdown-toggle:after { content: none }
+.dropdown-item {
+    padding-left:6px;
+}
+
 p{
     margin: 0px;
+}
+
+#logo {
+    width:50px;
+    height:50px;
+    border-radius:50%;
 }
 
 .btn-red{

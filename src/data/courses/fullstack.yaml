@@ -8,7 +8,7 @@ banner:
   time: 16 weeks (Part-time)
 ## Description del bootcamp
 description:
-  description: A Premiun Program designed tolaunch your web developer career
+  description: A Premiun Program designed to launch your web developer career
   time: 300+ hours of lessons 3 times a week for a 16-week period.
   menu:
     ## Titulo de menu
@@ -16,7 +16,7 @@ description:
     ## Detalle de esa opcion
       detail:
         - title: Real "Senior" Mentoring
-          text: All of our staff has 10+ years coding and holds senior possitions in Miamis tech industry.
+          text: All of our staff has 10+ years coding and holds senior positions in Miami's tech industry.
         - title: Top-notch Technology Stack
           text: the world of Coding grows and changes EVERY DAY. Learn the newest and most demanded languages and frameworks in the current market. Your potential employers will LOVE IT.
         - title: Really Part-time
@@ -111,10 +111,10 @@ training:
     description:
       - trainer: Angel Lacret
         img: ../../img/trainer/TEAMILLUSTRATION_05.png
-        description: Angel has a unique way of both explaining and teaching. He always finds the best way to explain complex concepts. With more than 12 years the experience, Angel has become the CEO of one of the biggest software companies in Venezuela. He has developed over 200 projects, and he also has more than 3 years of teaching experience
+        description: Angel has a unique way of both explaining and teaching. He always finds the best way to explain complex concepts. With more than 12 years of experience, Angel has become the CEO of one of the biggest software companies in Venezuela. He has developed over 200 projects, and he also has more than 3 years of teaching experience
       - trainer: Ignacio Cordoba
         img: ../../img/trainer/TEAMILLUSTRATION_03.png
-        description: The great Nacho Nacho is not only a great developer, but an amazing team builder as well. For several years, he has been both writing and developing software as well as leading teams. Nacho is going on 12 years of experience and has now become a Master Mentor. Students are ecstactic to hace him as an Instructor because he absolutely understands what it takes to become a great developer
+        description: The great Nacho, Nacho is not only a great developer, but an amazing team builder as well. For several years, he has been both writing and developing software as well as leading teams. Nacho is going on 12 years of experience and has now become a Master Mentor. Students are ecstactic to hae him as an Instructor because he absolutely understands what it takes to become a great developer
       - trainer: Patricia Ayuso
         img: ../../img/trainer/TEAMILLUSTRATION_01.png
         description: Patricia is not the usual geek She loves to code, but she also enjoys spending time with her family and doing yoga. She is a Software Enginner (UCAB) and hes been coding for the last 8 years. Patricia has a Masters degree in Management Information Systems with special focus in Business Intelligence. She is passionate about programming and teaching, and she has joined 4Geeks Academy to help every student to become as skillful a developer as possible

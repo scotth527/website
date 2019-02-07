@@ -139,6 +139,24 @@ const createPagesfromYml = () => {
               }
             });
           }
+          if (node.basic_info.slug == "upcoming-programs") {
+            createPage({
+              path: node.basic_info.slug,
+              component: path.resolve(`./src/templates/upcoming-programs-template.js`),
+              context: {
+                slug: node.basic_info.slug
+              }
+            });
+          }
+          if (node.basic_info.slug == "partners") {
+            createPage({
+              path: node.basic_info.slug,
+              component: path.resolve(`./src/templates/partners.js`),
+              context: {
+                slug: node.basic_info.slug
+              }
+            });
+          }
         });
         resolve();
       });

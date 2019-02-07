@@ -23,6 +23,7 @@ export default ({ data }) => {
   const courseStructure = data.coursesYaml.course_structure;
   const banner = data.coursesYaml.banner;
   const training = data.coursesYaml.training;
+  console.log(training);
   const skills = data.coursesYaml.skills;
   const pricing = data.coursesYaml.pricing;
   return (

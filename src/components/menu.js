@@ -24,7 +24,7 @@ class Menu extends Component {
             >
               <span className="navbar-toggler-icon" />
             </button>
-            <div className="collapse navbar-collapse">
+            <div className="col-10 collapse navbar-collapse">
               <ul className="navbar-nav ml-auto ul-menu">
                 <li className="nav-item item-menu">
                   <Link to={"/"}>The programs</Link>
@@ -36,7 +36,7 @@ class Menu extends Component {
                   <Link to={"/partners/"}>Partners</Link>
                 </li>
                 <li className="nav-item item-menu">
-                  <Link to={"/upcoming/"}>Upcoming programs</Link>
+                  <Link to={"/upcoming-programs/"}>Upcoming programs</Link>
                 </li>
               </ul>
             </div>

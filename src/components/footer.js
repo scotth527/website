@@ -34,10 +34,6 @@ class Footer extends Component {
                 <li>Maracaibo, Vzla</li>
               </ul>
             </div>
-            <div className="col-6">
-              <button src="" className="btn btn-red-large">Apply Now</button>
-              <button src="" className="btn btn-grey-large">or review other dates</button>
-            </div>
           </div>
         </div>
       </div>

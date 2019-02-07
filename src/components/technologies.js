@@ -10,7 +10,6 @@ class Technologies extends Component {
           <div className="description-technologies">
             <div className="flex-tecnologies">
               {props.children}
-             
             </div>
           </div>
         </div>
