@@ -16,7 +16,7 @@ class Story extends Component {
             <p>4Geeks Academy now offers locations in 3 cities, with 5 campuses, 
             and over 300 graduates.</p>
             <a href="https://www.4geeksacademy.co/4geeks-academy-history/">
-              <button type="button" className="btn btn-danger btn-lg rounded">About 4Geeks Academy</button>
+              <button type="button" className="btn-red-large">About 4Geeks Academy</button>
             </a>
         </div>
     );

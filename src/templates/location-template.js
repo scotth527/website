@@ -4,7 +4,7 @@ import Layout from "../components/layout";
 export default () => {
   return (
     <Layout>
-      <div>Hello location</div>
+      <div  className="text-light">Hello location</div>
     </Layout>
   );
 };

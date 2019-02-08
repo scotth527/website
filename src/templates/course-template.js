@@ -3,7 +3,7 @@ import { graphql } from "gatsby";
 import { StickyContainer, Sticky } from 'react-sticky';
 
 import Banner from "../components/banner.js";
-import Menu from "../components/menu.js";
+import NewMenu from "../components/updatedmenu.js";
 import DescriptionCourse from '../components/course-template/descriptionCourse';
 import MenuCourse from '../components/course-template/menuCourse';
 import CourseStructure from "../components/course-template/courseStructure";
@@ -28,7 +28,7 @@ export default ({ data }) => {
   const pricing = data.coursesYaml.pricing;
   return (
     <div>
-      <Menu>
+      <NewMenu>
         <Banner
           headerText={banner.headertext}
           title={banner.title}
@@ -38,7 +38,7 @@ export default ({ data }) => {
           textBtnRight="Request Syllabus"
           linkBtnRight=""
         />
-      </Menu>
+      </NewMenu>
       <DescriptionCourse data={menuStructure}/>
       <StickyContainer>
         <Sticky bottomOffset={800}>{({ style}) => 

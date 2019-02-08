@@ -8,7 +8,7 @@ import Slack from "../img/slack.png";
 import Icon7 from "../img/icon7.png";
 
 import Banner from "../components/banner";
-import Menu from "../components/menu";
+import NewMenu from "../components/updatedmenu";
 import RowEvent from "../components/rowEvent";
 import Goals from "../components/goals";
 import Skills from "../components/skillsRow";
@@ -26,7 +26,7 @@ import "../sass/index.scss";
 const BlogIndex = ({ data, location }) => {
   return (
     <div>
-      <Menu>
+      <NewMenu>
         <Banner
           title="&#60;Time to Code&#62;"
           subtitle="Learn coding skills that change you life"
@@ -37,8 +37,8 @@ const BlogIndex = ({ data, location }) => {
           textBtnRight="Request Syllabus"
           linkBtnRight=""
         />
-      </Menu>
-      <RowEvent date="Our next cohort starts on December 3, 2018" />
+      </NewMenu>
+      <RowEvent date="December 3, 2018" />
       <Goals title="6 Goals to change your life" />
       <Skills
         title="Gamified and focused on skills with modern technologies"

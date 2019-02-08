@@ -37,6 +37,11 @@ body {
 
 .facts {
     color:yellow;
+    font-size:50px;
+}
+
+.noun {
+    font-size:20px;
 }
 
 .navbar, .dropdown-menu.show {
@@ -46,6 +51,14 @@ body {
 a, {
     color:white !important;
     font-size: 16px;
+}
+
+.programs, .nav-item.dropdown {
+    padding-right:0px !important;
+}
+
+.nav-link.dropdown-toggle:hover {
+    text-decoration: underline;
 }
 
 a:hover {
@@ -59,16 +72,17 @@ a:hover {
 
 .dropdown-toggle:after { content: none }
 .dropdown-item {
-    padding-left:6px;
+    padding-left:8px;
 }
 
-p{
+p, h1{
     margin: 0px;
+    color:#7D7C7D;
 }
 
 #logo {
-    width:50px;
-    height:50px;
+    width:75px;
+    height:75px;
     border-radius:50%;
 }
 
@@ -106,6 +120,7 @@ p{
     border-radius: 27px;
     padding: 13px 0px;
     margin-top: 30px;
+    border-color:red;
 }
 
 .btn-grey{
@@ -130,6 +145,12 @@ p{
     border-radius: 27px;
     padding: 13px 0px;
     margin-top: 30px;
+}
+
+div.sticky {
+  position: -webkit-sticky; 
+  position: sticky;
+  bottom: 0;
 }
 
 //Menu

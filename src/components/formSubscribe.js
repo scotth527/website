@@ -17,7 +17,7 @@ class FormSubscribe extends Component {
               <label>Your email</label>
             </div>
             <button type="submit" className="btn btn-grey">
-              Submit
+              Subscribe
             </button>
           </form>
         </div>
