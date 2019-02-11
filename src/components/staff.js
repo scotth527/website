@@ -26,7 +26,7 @@ class Staff extends Component {
             props.staff.map((data, key)=>{
                 return (
                     <div className="col-5 mr-5 p-0" key={key}>
-                        <img style={{borderRadius:"50%"}} src="../img/staffImg/marcelo.png" />
+                        <img style={{borderRadius:"50%"}} src={people[data.image]} />
                         <h2 className="mb-1" style={{color:"#7D7C7D"}}>{data.name}</h2>
                         <p>{data.description}</p>
                     </div>

@@ -151,7 +151,7 @@ const createPagesfromYml = () => {
           if (node.basic_info.slug == "partners") {
             createPage({
               path: node.basic_info.slug,
-              component: path.resolve(`./src/templates/partners.js`),
+              component: path.resolve(`./src/templates/partners-template.js`),
               context: {
                 slug: node.basic_info.slug
               }

@@ -12,7 +12,7 @@ export default ({ data }) => {
   return (
     <div>
       <Layout>
-              <div className="col-8 mx-auto">
+              <div className="p-0 col-8 mx-auto">
                   Intro to coding
                  <FormSubscribe />
               </div>

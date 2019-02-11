@@ -7,7 +7,7 @@ class NewMenu extends Component {
     return (
       <div className="container-fluid"> 
         <div className="row">
-           <div className="col-12 mx-auto">
+           <div className="col-9 mx-auto">
                 <nav className="navbar navbar-expand-lg mt-5 justify-content-around" >
                   <Link className="pl-3 navbar-brand" to="/">
                     <img className="justify-content-center" id="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5k5OBpVGmOPEISGcdwOt5B4g2nmMqcnqNV9OROyVnHfRsmYm88w" 

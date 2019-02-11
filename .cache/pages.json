@@ -40,7 +40,7 @@
         "path": "/introcoding"
     },
     {
-        "componentChunkName": "component---src-templates-partners-js",
+        "componentChunkName": "component---src-templates-partners-template-js",
         "jsonName": "partners-789",
         "path": "/partners"
     },

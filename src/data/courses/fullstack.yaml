@@ -110,19 +110,19 @@ training:
     subtitle: Meet our team of highly trained developers, that currently hold senior positions in Miami's top tech industry companies.
     description:
       - trainer: Angel Lacret
-        img: ../../img/trainer/TEAMILLUSTRATION_05.png
+        img: ../../img/teacher/TEAMILLUSTRATION_05.png
         description: Angel has a unique way of both explaining and teaching. He always finds the best way to explain complex concepts. With more than 12 years of experience, Angel has become the CEO of one of the biggest software companies in Venezuela. He has developed over 200 projects, and he also has more than 3 years of teaching experience
       - trainer: Ignacio Cordoba
-        img: ../../img/trainer/TEAMILLUSTRATION_03.png
+        img: ../../img/teacher/TEAMILLUSTRATION_03.png
         description: The great Nacho, Nacho is not only a great developer, but an amazing team builder as well. For several years, he has been both writing and developing software as well as leading teams. Nacho is going on 12 years of experience and has now become a Master Mentor. Students are ecstactic to hae him as an Instructor because he absolutely understands what it takes to become a great developer
       - trainer: Patricia Ayuso
-        img: ../../img/trainer/TEAMILLUSTRATION_01.png
+        img: ../../img/teacher/TEAMILLUSTRATION_01.png
         description: Patricia is not the usual geek She loves to code, but she also enjoys spending time with her family and doing yoga. She is a Software Enginner (UCAB) and hes been coding for the last 8 years. Patricia has a Masters degree in Management Information Systems with special focus in Business Intelligence. She is passionate about programming and teaching, and she has joined 4Geeks Academy to help every student to become as skillful a developer as possible
       - trainer: Marco Gomez
-        img: ../../img/trainer/TEAMILLUSTRATION_04.png
+        img: ../../img/teacher/TEAMILLUSTRATION_04.png
         description: Marco is just a Geek He has been developing software since 2008, but he has also led several software teams to accomplish a veriety of challenging products. Marco is both a proven software enginner (UCV Enginner Diploma), and also an amazing teacher (he was in charge of the Academy at its inception). Every task he assumes will be completed perfectly - no matter the complexity attached
       - trainer: James Walters
-        img: ../../img/trainer/TEAMILLUSTRATION_02.png
+        img: ../../img/teacher/TEAMILLUSTRATION_02.png
         description: The new geek in the team. A commited and passionate developer. Executive lever director with 14 years of Information Technology and business management experience in the private sector with key emphasis in software development (SDLC), system implementation, vendor management, and business intelligence analytics
 skills:
   - titleTechnology: Be prepared for the next decade

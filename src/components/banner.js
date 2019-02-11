@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 
 import Background from "../img/night.jpg";
+import Sky from "../img/sky.jpeg";
 
 export default class Banner extends Component {
   
@@ -8,10 +9,10 @@ export default class Banner extends Component {
     console.log(Background);
     return (
       <div
-        className="col-md-12 banner-page"
+        className="col-md-12 banner-page border border-warning"
         style={{
-          backgroundImage: `url("../img/night.jpg")`,
-          height: `100vh`,
+          background: `blue`,
+          height: `80vh`,
           backgroundSize: `cover`
         }}
       >

@@ -2,8 +2,6 @@ import React, { Component } from "react";
 import Education from "../img/footerImages/florida.png";
 import Bitcoin from "../img/footerImages/bitcoin.png";
 import Geekslogo from "../img/footerImages/4geekslogo.jpeg";
-import Geekslogo2 from "../img/footerImages/geekslogo1.png";
-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons';
@@ -17,7 +15,7 @@ class Footer extends Component {
   render() {
     return (
       <div className="row full-width justify-content-center footer">
-        <div className="col-9">
+        <div className="col-9 p-0">
           <div className="flex-footer">
             <div className="col-6 description">
               <h3>Contact</h3>
@@ -28,7 +26,7 @@ class Footer extends Component {
                 <li>info@4GeeksAcademy.com</li>
               </ul>
             </div>
-            <div className="col-6">
+            <div className="col-6 d-flex flex-column">
               <h3>Company</h3>
               <ul>
                 <li>We are available Monday to Friday: 9:00am - 6:00pm</li>
@@ -36,6 +34,8 @@ class Footer extends Component {
                 <li>Phone: +1(727)8882491</li>
                 <li>info@4GeeksAcademy.com</li>
               </ul>
+              
+              
             </div>
             <div className="col-6">
               <h3>Locations</h3>
@@ -54,11 +54,11 @@ class Footer extends Component {
               </div>
               <div className="d-flex flex-column">
                 <p>We accept </p>
-                <img style={{width:"150px", height:"40px"}} src={Bitcoin} alt="bitcoin" />
+                <img style={{width:"140px", height:"40px"}} src={Bitcoin} alt="bitcoin" />
               </div>
                <div className="ml-3 d-flex flex-column">
                 <div className="d-flex justify-content-between">
-                  <img className="mr-4" style={{width:"100px", height:"40px"}} src={Geekslogo} alt="4geekslogo" />
+                  <img className="m-0" style={{width:"100px", height:"50px"}} src={Geekslogo} alt="4geekslogo" />
                   <a className="mr-2" href="https://www.instagram.com/4geeksacademy/">
                     <FontAwesomeIcon size="2x" icon={faInstagram} />
                   </a>
