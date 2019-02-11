@@ -11,7 +11,6 @@ import react from "../../img/iconTechnologies/react.png";
 import sass from "../../img/iconTechnologies/sass.png";
 import tech1 from "../../img/iconTechnologies/tech1.png";
 import technologieIcon from "../../img/iconTechnologies/technologie-icon.png";
-
 const icons = {
     babel,
     db,
@@ -27,6 +26,7 @@ const icons = {
 };
 
 class IconTech extends Component {
+  
   render() {
     return <img src={icons[this.props.icon]} />;
   }

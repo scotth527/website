@@ -8,7 +8,7 @@ import Slack from "../img/slack.png";
 import Icon7 from "../img/icon7.png";
 
 import Banner from "../components/banner";
-import NewMenu from "../components/updatedmenu";
+import NewMenu from "../components/updatedMenu";
 import RowEvent from "../components/rowEvent";
 import Goals from "../components/goals";
 import Skills from "../components/skillsRow";

@@ -24,9 +24,9 @@ class NewMenu extends Component {
                           The programs
                         </a>
                         <div className="dropdown-menu mt-0 pt-0" aria-labelledby="navbarDropdown">
-                          <Link className="dropdown-item" to="/">Full Stack Development Bootcamp (Part-time)</Link>
-                          <Link className="dropdown-item" to="/">Full Stack Development Bootcamp (Full-time)</Link>
-                          <Link className="dropdown-item" to="/">Coding Introduction</Link>
+                          <Link className="dropdown-item" to="/parttime">Full Stack Development Bootcamp (Part-time)</Link>
+                          <Link className="dropdown-item" to="/fullstack">Full Stack Development Bootcamp (Full-time)</Link>
+                          <Link className="dropdown-item" to="/introcoding">Coding Introduction</Link>
                         </div>
                       </li>
                       <li className="nav-item mr-4">

@@ -30,6 +30,16 @@
         "path": "/fullstack"
     },
     {
+        "componentChunkName": "component---src-templates-fulltime-js",
+        "jsonName": "fulltime-57b",
+        "path": "/fulltime"
+    },
+    {
+        "componentChunkName": "component---src-templates-introcoding-js",
+        "jsonName": "introcoding-620",
+        "path": "/introcoding"
+    },
+    {
         "componentChunkName": "component---src-templates-partners-js",
         "jsonName": "partners-789",
         "path": "/partners"

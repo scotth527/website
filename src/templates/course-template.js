@@ -3,12 +3,12 @@ import { graphql } from "gatsby";
 import { StickyContainer, Sticky } from 'react-sticky';
 
 import Banner from "../components/banner.js";
-import NewMenu from "../components/updatedmenu.js";
+import NewMenu from "../components/updatedMenu.js";
 import DescriptionCourse from '../components/course-template/descriptionCourse';
 import MenuCourse from '../components/course-template/menuCourse';
 import CourseStructure from "../components/course-template/courseStructure";
 import DownloadPdf from "../components/downloadPdf";
-import TrainerCourse from "../components/course-template/trainnerCourse";
+import TrainnerCourse from "../components/course-template/trainnerCourse";
 import SkillsVertical from "../components/skillsVertical";
 import TecnologiesRow from '../components/technologies';
 import PriceFinancing from '../components/priceFinancing';
@@ -19,11 +19,11 @@ import IconTech from "../components/iconTechnologies/iconTech";
 
 
 export default ({ data }) => {
+  console.log(data);
   const menuStructure = data.coursesYaml.description;
   const courseStructure = data.coursesYaml.course_structure;
   const banner = data.coursesYaml.banner;
   const training = data.coursesYaml.training;
-  console.log(training);
   const skills = data.coursesYaml.skills;
   const pricing = data.coursesYaml.pricing;
   return (
@@ -55,7 +55,7 @@ export default ({ data }) => {
       </StickyContainer>
       <CourseStructure data={courseStructure}/>
       <DownloadPdf title="Download our syllabus PDF to get all the details"/>
-      <TrainerCourse data={training}/>
+      <TrainnerCourse data={training}/>
       <SkillsVertical data={skills}/>
       <TecnologiesRow 
         title="Learn and advanced stack of technologies to meet the demands that companies seek.">

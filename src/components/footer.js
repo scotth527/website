@@ -1,4 +1,17 @@
 import React, { Component } from "react";
+import Education from "../img/footerImages/florida.png";
+import Bitcoin from "../img/footerImages/bitcoin.png";
+import Geekslogo from "../img/footerImages/4geekslogo.jpeg";
+import Geekslogo2 from "../img/footerImages/geekslogo1.png";
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faTwitter } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook} from '@fortawesome/free-brands-svg-icons';
+import { faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
+
+// <FontAwesomeIcon icon="igloo" />
 
 class Footer extends Component {
   render() {
@@ -33,6 +46,37 @@ class Footer extends Component {
                 <li>El Nacional, CCS, Vzla</li>
                 <li>Maracaibo, Vzla</li>
               </ul>
+            </div>
+            <div className="mt-4 col-12 d-flex">
+              <div className="d-flex flex-column mr-3">
+                <p>licenced by </p>
+                <img src={Education} alt="education department"/>
+              </div>
+              <div className="d-flex flex-column">
+                <p>We accept </p>
+                <img style={{width:"150px", height:"40px"}} src={Bitcoin} alt="bitcoin" />
+              </div>
+               <div className="ml-3 d-flex flex-column">
+                <div className="d-flex justify-content-between">
+                  <img className="mr-4" style={{width:"100px", height:"40px"}} src={Geekslogo} alt="4geekslogo" />
+                  <a className="mr-2" href="https://www.instagram.com/4geeksacademy/">
+                    <FontAwesomeIcon size="2x" icon={faInstagram} />
+                  </a>
+                  <a className="mr-2" href="https://twitter.com/4GeeksAcademy">
+                    <FontAwesomeIcon size="2x" icon={faTwitter} />
+                  </a>
+                  <a className="mr-2" href="https://www.facebook.com/4geeksacademy/">
+                    <FontAwesomeIcon size="2x" icon={faFacebook} />
+                  </a>
+                  <a className="mr-2" href="https://www.youtube.com/channel/UC1ZyAx5eyV9gTFWpHPs9-GA">
+                    <FontAwesomeIcon size="2x" icon={faYoutube} />
+                  </a>
+                  <a className="mr-2" href="https://github.com/4geeksacademy">
+                    <FontAwesomeIcon size="2x" icon={faGithub} />
+                  </a>
+                </div>
+                <p>Copyright 4Geeks Academy LLC 2017 All rights reserved. </p>
+              </div>
             </div>
           </div>
         </div>

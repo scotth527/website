@@ -157,6 +157,33 @@ const createPagesfromYml = () => {
               }
             });
           }
+            if (node.basic_info.slug == "fulltime") {
+            createPage({
+              path: node.basic_info.slug,
+              component: path.resolve(`./src/templates/fulltime.js`),
+              context: {
+                slug: node.basic_info.slug
+              }
+            });
+            }
+            if (node.basic_info.slug == "parttime") {
+            createPage({
+              path: node.basic_info.slug,
+              component: path.resolve(`./src/templates/parttime.js`),
+              context: {
+                slug: node.basic_info.slug
+              }
+            });
+            }
+            if (node.basic_info.slug == "introcoding") {
+            createPage({
+              path: node.basic_info.slug,
+              component: path.resolve(`./src/templates/introcoding.js`),
+              context: {
+                slug: node.basic_info.slug
+              }
+            });
+          }
         });
         resolve();
       });
