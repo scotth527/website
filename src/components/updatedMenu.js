@@ -13,13 +13,13 @@ class NewMenu extends Component {
                     <img className="justify-content-center" id="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5k5OBpVGmOPEISGcdwOt5B4g2nmMqcnqNV9OROyVnHfRsmYm88w" 
                     alt="logo"/>
                   </Link>
-                  <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <button className="navbar-toggler btn btn-light" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                   </button>
 
-                  <div className="ml-3 col-9 collapse navbar-collapse pt-0" id="navbarSupportedContent">
+                  <div className="ml-0 col-9 collapse navbar-collapse pt-0" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto">
-                      <li className="nav-item dropdown mb-0 pt-0 ml-3 mr-4 ">
+                      <li className="nav-item dropdown mb-0 pt-0 mr-4 ">
                         <a className="nav-link dropdown-toggle programs" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           The programs
                         </a>

@@ -65,7 +65,9 @@ class Partners extends Component {
             {
             props.partner.map((data, key)=>{
                 return (
-                    <div className="mr-5 mb-5" style={{borderRadius:"50%", width:"120px",height:"120px",background:"white no-repeat center",backgroundImage:`url(${organizations[data]})`, backgroundSize:"contain"}}  />
+                    <div className="col-xs-6 col-lg-3 ">
+                        <div className="mr-5 mb-5" style={{borderRadius:"50%", width:"120px",height:"120px",background:"white no-repeat center",backgroundImage:`url(${organizations[data]})`, backgroundSize:"contain"}}  />
+                    </div>
                 );
             })
                 

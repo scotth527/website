@@ -14,14 +14,32 @@ import HeaderParagraphs from "../components/headerParagraphs";
 import Staff from "../components/staff.js";
 
 export default ({ data }) => {
-  var parttime = {
+  const information =[
+    {
+      header:"2015",
+     fact:"founded"
+    },
+    {
+      header:"5",
+      fact:"Campuses"
+    },
+    {
+      header:"300+",
+      fact:"Graduates"
+    },
+    {
+      header:"100+",
+      fact:"Hiring Partners"
+    }
+  ];
+  const parttime = {
     header:"Let's Part-Time",
     paragraphs:{
       p1:"Part-time is far more than just a schedule. Building a unique methodology and constantly updating our content through part-time education has made us more flexible, tech-based and efficient",
       p2:"All of our courses are part-time, in 3-hour classes, 3 times a week."
     }
   };
-  var ourStory = {
+  const ourStory = {
     header:"Our story...",
     paragraphs: {
       p1:"4Geeks Academy was founded in 2015. What began as an internal project to train new developers has flourished into a full-time passion.",
@@ -29,7 +47,7 @@ export default ({ data }) => {
       p3:"4Geeks Academy now offers locations in 3 cities, with 5 campuses, and over 300 graduates.",
     }
   };
-  var staff = [
+  const staff = [
     {
       name:"Marcelo Ricigliano",
       description:"Ok, someone has to be a non-coder.  Although technology is his passion (and Juve, of course), Marcelo is not a software developer (he actually graduated as a Lawyer).  He has been founding Tech-startups since 2010, and, now, together with Alejandro, they are introducing a new framework to the world of coding education: 4Geeks Academy.",
@@ -84,8 +102,8 @@ export default ({ data }) => {
   return (
     <div>
     <Layout>
-            <div className="col-9 mx-auto">
-               <Facts />
+            <div className="col-6 mx-auto">
+               <Facts info={information}/>
                <Cornerstones />
                <HeaderParagraphs header={ourStory.header} para={ourStory.paragraphs} />
                <a href="https://www.4geeksacademy.co/4geeks-academy-history/">

@@ -4,15 +4,25 @@ class UpcomingCourses extends Component {
   render() {
     const props = this.props;
     return (
-      <div className="col-12 text-center d-flex">
-        <div className="d-flex flex-column">
-            <div>{this.props.date}</div>
-            <div>{"Duration: " + this.props.duration}</div>
-        </div>
-        <div className="d-flex flex-column">
-            <div>{this.props.city}</div>
-            <div>{this.props.country}</div>
-        </div>
+      <div className="col-xs-12 col-7 p-0 d-flex flex-column">
+        {
+          props.upcoming.map((data, key)=>{
+                return (
+                    <a className="d-flex justify-content-between mb-5" href="/fullstack" >
+                      <div className="d-flex flex-column">
+                        <div style={{fontSize:"35px"}}>{data.date}</div>
+                        <div>{"Duration: " + data.duration}</div>
+                      </div>
+                      <div className="d-flex flex-column">
+                          <div style={{fontSize:"35px"}}>{data.city}</div>
+                          <div>{data.country}</div>
+                      </div>
+                    </a>
+                );
+            })
+          
+        }
+        
       </div>
     );
   }

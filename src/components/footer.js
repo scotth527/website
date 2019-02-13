@@ -15,7 +15,7 @@ class Footer extends Component {
   render() {
     return (
       <div className="row full-width justify-content-center footer">
-        <div className="col-9 p-0">
+        <div className="mx-auto col-6 p-0">
           <div className="flex-footer">
             <div className="col-6 description">
               <h3>Contact</h3>

@@ -1994,12 +1994,12 @@
       "host": "0.0.0.0",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-11T19:42:25.633Z",
+      "buildTime": "2019-02-12T23:52:08.556Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "adb723bd60b952e4207adb54c4e61859",
+        "contentDigest": "ae3e12a8d703c4700a3a5afd979a0662",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2009,7 +2009,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4e36271e452382069c48429df7caa564",
+        "contentDigest": "62b10474f248a958ed0f527a63d42e5e",
         "type": "Directory",
         "description": "Directory \"src/data\"",
         "owner": "gatsby-source-filesystem"
@@ -2021,7 +2021,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-02-08T19:30:40.516Z",
-      "accessTime": "2019-02-11T19:36:34.453Z",
+      "accessTime": "2019-02-12T23:38:29.127Z",
       "changeTime": "2019-02-08T19:30:40.516Z",
       "birthTime": "2019-02-08T19:30:40.516Z",
       "root": "/",
@@ -2030,20 +2030,20 @@
       "ext": "",
       "name": "data",
       "relativeDirectory": "..",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 4,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 2493,
+      "ino": 392,
       "blocks": 8,
-      "atimeMs": 1549913794453.022,
+      "atimeMs": 1550014709126.8096,
       "mtimeMs": 1549654240516.0789,
       "ctimeMs": 1549654240516.0789,
       "birthtimeMs": 1549654240516.0789,
-      "atime": "2019-02-11T19:36:34.453Z",
+      "atime": "2019-02-12T23:38:29.127Z",
       "mtime": "2019-02-08T19:30:40.516Z",
       "ctime": "2019-02-08T19:30:40.516Z",
       "birthtime": "2019-02-08T19:30:40.516Z"
@@ -2053,7 +2053,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "71791cfd0f66203e2207fe9468a077b6",
+        "contentDigest": "ef12ea0d395cfb29e6d12196d15a6929",
         "type": "Directory",
         "description": "Directory \"src/data/courses\"",
         "owner": "gatsby-source-filesystem"
@@ -2065,7 +2065,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-02-08T19:27:45.583Z",
-      "accessTime": "2019-02-11T19:36:34.453Z",
+      "accessTime": "2019-02-12T23:38:29.127Z",
       "changeTime": "2019-02-08T19:27:45.583Z",
       "birthTime": "2019-02-08T19:27:45.583Z",
       "root": "/",
@@ -2074,20 +2074,20 @@
       "ext": "",
       "name": "courses",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 2494,
+      "ino": 393,
       "blocks": 8,
-      "atimeMs": 1549913794453.022,
+      "atimeMs": 1550014709126.8096,
       "mtimeMs": 1549654065582.8955,
       "ctimeMs": 1549654065582.8955,
       "birthtimeMs": 1549654065582.8955,
-      "atime": "2019-02-11T19:36:34.453Z",
+      "atime": "2019-02-12T23:38:29.127Z",
       "mtime": "2019-02-08T19:27:45.583Z",
       "ctime": "2019-02-08T19:27:45.583Z",
       "birthtime": "2019-02-08T19:27:45.583Z"
@@ -2097,7 +2097,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "97d530e0594cbb83e93472db20e849b8",
+        "contentDigest": "d1795daf8436f07f30f1f633354e3604",
         "type": "Directory",
         "description": "Directory \"src/data/locations\"",
         "owner": "gatsby-source-filesystem"
@@ -2109,7 +2109,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-02-04T19:35:14.000Z",
-      "accessTime": "2019-02-11T16:45:25.343Z",
+      "accessTime": "2019-02-12T17:21:57.872Z",
       "changeTime": "2019-02-08T16:17:11.321Z",
       "birthTime": "2019-02-08T16:17:11.321Z",
       "root": "/",
@@ -2118,20 +2118,20 @@
       "ext": "",
       "name": "locations",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 2495,
+      "ino": 394,
       "blocks": 8,
-      "atimeMs": 1549903525343.0645,
+      "atimeMs": 1549992117872.2063,
       "mtimeMs": 1549308914000,
       "ctimeMs": 1549642631321.1958,
       "birthtimeMs": 1549642631321.1958,
-      "atime": "2019-02-11T16:45:25.343Z",
+      "atime": "2019-02-12T17:21:57.872Z",
       "mtime": "2019-02-04T19:35:14.000Z",
       "ctime": "2019-02-08T16:17:11.321Z",
       "birthtime": "2019-02-08T16:17:11.321Z"
@@ -3008,7 +3008,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "15bbb640816a7d133c64881ebf0e565c",
+        "contentDigest": "3f4ceafa45dbb25305b3d726a468e448",
         "type": "Directory",
         "description": "Directory \"src/img\"",
         "owner": "gatsby-source-filesystem"
@@ -3019,40 +3019,40 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2019-02-11T17:12:38.178Z",
-      "accessTime": "2019-02-11T17:12:38.182Z",
-      "changeTime": "2019-02-11T17:12:38.178Z",
-      "birthTime": "2019-02-11T17:12:38.178Z",
+      "modifiedTime": "2019-02-11T20:26:53.345Z",
+      "accessTime": "2019-02-12T23:38:29.127Z",
+      "changeTime": "2019-02-11T20:26:53.345Z",
+      "birthTime": "2019-02-11T20:26:53.345Z",
       "root": "/",
       "dir": "/home/ubuntu/workspace/website/src",
       "base": "img",
       "ext": "",
       "name": "img",
       "relativeDirectory": "..",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
-      "nlink": 9,
+      "nlink": 11,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 734,
+      "ino": 2400,
       "blocks": 8,
-      "atimeMs": 1549905158182.128,
-      "mtimeMs": 1549905158178.1277,
-      "ctimeMs": 1549905158178.1277,
-      "birthtimeMs": 1549905158178.1277,
-      "atime": "2019-02-11T17:12:38.182Z",
-      "mtime": "2019-02-11T17:12:38.178Z",
-      "ctime": "2019-02-11T17:12:38.178Z",
-      "birthtime": "2019-02-11T17:12:38.178Z"
+      "atimeMs": 1550014709126.8096,
+      "mtimeMs": 1549916813344.5505,
+      "ctimeMs": 1549916813344.5505,
+      "birthtimeMs": 1549916813344.5505,
+      "atime": "2019-02-12T23:38:29.127Z",
+      "mtime": "2019-02-11T20:26:53.345Z",
+      "ctime": "2019-02-11T20:26:53.345Z",
+      "birthtime": "2019-02-11T20:26:53.345Z"
     },
     "bbff7c83-0f40-5fef-8c6a-6251ffc7f6e1": {
       "id": "bbff7c83-0f40-5fef-8c6a-6251ffc7f6e1",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c41828b1d6cdf5222c52ee3d342f1418",
+        "contentDigest": "440b5cd1799153375c8539034f36b873",
         "type": "Directory",
         "description": "Directory \"src/img/event\"",
         "owner": "gatsby-source-filesystem"
@@ -3064,7 +3064,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-02-04T19:35:14.000Z",
-      "accessTime": "2019-02-11T16:45:25.347Z",
+      "accessTime": "2019-02-12T17:21:57.880Z",
       "changeTime": "2019-02-08T16:17:11.329Z",
       "birthTime": "2019-02-08T16:17:11.329Z",
       "root": "/",
@@ -3073,20 +3073,20 @@
       "ext": "",
       "name": "event",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9483,
+      "ino": 2401,
       "blocks": 8,
-      "atimeMs": 1549903525347.065,
+      "atimeMs": 1549992117880.207,
       "mtimeMs": 1549308914000,
       "ctimeMs": 1549642631329.1965,
       "birthtimeMs": 1549642631329.1965,
-      "atime": "2019-02-11T16:45:25.347Z",
+      "atime": "2019-02-12T17:21:57.880Z",
       "mtime": "2019-02-04T19:35:14.000Z",
       "ctime": "2019-02-08T16:17:11.329Z",
       "birthtime": "2019-02-08T16:17:11.329Z"
@@ -3096,7 +3096,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d50e38ae344ef4c8741b2163de160008",
+        "contentDigest": "cc8b86e82954850de566dcbccc0db01b",
         "type": "Directory",
         "description": "Directory \"src/img/footerImages\"",
         "owner": "gatsby-source-filesystem"
@@ -3108,7 +3108,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-02-09T19:42:59.315Z",
-      "accessTime": "2019-02-10T20:04:46.505Z",
+      "accessTime": "2019-02-12T23:38:29.127Z",
       "changeTime": "2019-02-09T19:42:59.315Z",
       "birthTime": "2019-02-09T19:42:59.315Z",
       "root": "/",
@@ -3117,20 +3117,20 @@
       "ext": "",
       "name": "footerImages",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 735,
+      "ino": 2402,
       "blocks": 8,
-      "atimeMs": 1549829086504.833,
+      "atimeMs": 1550014709126.8096,
       "mtimeMs": 1549741379314.8916,
       "ctimeMs": 1549741379314.8916,
       "birthtimeMs": 1549741379314.8916,
-      "atime": "2019-02-10T20:04:46.505Z",
+      "atime": "2019-02-12T23:38:29.127Z",
       "mtime": "2019-02-09T19:42:59.315Z",
       "ctime": "2019-02-09T19:42:59.315Z",
       "birthtime": "2019-02-09T19:42:59.315Z"
@@ -3140,7 +3140,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "16977b40f8a6d64dd6ee50d85474ad9f",
+        "contentDigest": "7c56e65f710e0a7afc7813928df4b41b",
         "type": "Directory",
         "description": "Directory \"src/img/iconSkill\"",
         "owner": "gatsby-source-filesystem"
@@ -3152,7 +3152,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-02-04T19:35:14.000Z",
-      "accessTime": "2019-02-11T16:45:25.347Z",
+      "accessTime": "2019-02-12T17:21:57.876Z",
       "changeTime": "2019-02-08T16:17:11.329Z",
       "birthTime": "2019-02-08T16:17:11.329Z",
       "root": "/",
@@ -3161,20 +3161,20 @@
       "ext": "",
       "name": "iconSkill",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 736,
+      "ino": 2403,
       "blocks": 8,
-      "atimeMs": 1549903525347.065,
+      "atimeMs": 1549992117876.2065,
       "mtimeMs": 1549308914000,
       "ctimeMs": 1549642631329.1965,
       "birthtimeMs": 1549642631329.1965,
-      "atime": "2019-02-11T16:45:25.347Z",
+      "atime": "2019-02-12T17:21:57.876Z",
       "mtime": "2019-02-04T19:35:14.000Z",
       "ctime": "2019-02-08T16:17:11.329Z",
       "birthtime": "2019-02-08T16:17:11.329Z"
@@ -3184,7 +3184,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b98fbd9a371a2d801e090153b7dbed6b",
+        "contentDigest": "fa7aa61b7a17c7c3ed2267ed04409020",
         "type": "Directory",
         "description": "Directory \"src/img/iconTechnologies\"",
         "owner": "gatsby-source-filesystem"
@@ -3196,7 +3196,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-02-09T19:07:06.801Z",
-      "accessTime": "2019-02-11T19:32:13.657Z",
+      "accessTime": "2019-02-12T23:38:29.127Z",
       "changeTime": "2019-02-09T19:07:06.801Z",
       "birthTime": "2019-02-09T19:07:06.801Z",
       "root": "/",
@@ -3205,20 +3205,20 @@
       "ext": "",
       "name": "iconTechnologies",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 737,
+      "ino": 9412,
       "blocks": 8,
-      "atimeMs": 1549913533657.3638,
+      "atimeMs": 1550014709126.8096,
       "mtimeMs": 1549739226800.6738,
       "ctimeMs": 1549739226800.6738,
       "birthtimeMs": 1549739226800.6738,
-      "atime": "2019-02-11T19:32:13.657Z",
+      "atime": "2019-02-12T23:38:29.127Z",
       "mtime": "2019-02-09T19:07:06.801Z",
       "ctime": "2019-02-09T19:07:06.801Z",
       "birthtime": "2019-02-09T19:07:06.801Z"
@@ -3228,7 +3228,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "972be262d81df6ab636d9719d6b27d94",
+        "contentDigest": "18d6cb3303babcbc5a0cb7620d227fbd",
         "type": "Directory",
         "description": "Directory \"src/img/partners\"",
         "owner": "gatsby-source-filesystem"
@@ -3239,40 +3239,40 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2019-02-11T18:07:39.391Z",
-      "accessTime": "2019-02-11T18:07:39.395Z",
-      "changeTime": "2019-02-11T18:07:39.391Z",
-      "birthTime": "2019-02-11T18:07:39.391Z",
+      "modifiedTime": "2019-02-11T20:29:16.551Z",
+      "accessTime": "2019-02-12T23:38:29.127Z",
+      "changeTime": "2019-02-11T20:29:16.551Z",
+      "birthTime": "2019-02-11T20:29:16.551Z",
       "root": "/",
       "dir": "/home/ubuntu/workspace/website/src/img",
       "base": "partners",
       "ext": "",
       "name": "partners",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 18021,
+      "ino": 2406,
       "blocks": 8,
-      "atimeMs": 1549908459394.9216,
-      "mtimeMs": 1549908459390.9214,
-      "ctimeMs": 1549908459390.9214,
-      "birthtimeMs": 1549908459390.9214,
-      "atime": "2019-02-11T18:07:39.395Z",
-      "mtime": "2019-02-11T18:07:39.391Z",
-      "ctime": "2019-02-11T18:07:39.391Z",
-      "birthtime": "2019-02-11T18:07:39.391Z"
+      "atimeMs": 1550014709126.8096,
+      "mtimeMs": 1549916956551.344,
+      "ctimeMs": 1549916956551.344,
+      "birthtimeMs": 1549916956551.344,
+      "atime": "2019-02-12T23:38:29.127Z",
+      "mtime": "2019-02-11T20:29:16.551Z",
+      "ctime": "2019-02-11T20:29:16.551Z",
+      "birthtime": "2019-02-11T20:29:16.551Z"
     },
     "c438c707-fdad-5510-bd57-a3a99e7b623e": {
       "id": "c438c707-fdad-5510-bd57-a3a99e7b623e",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f42d929ff16336958f0f08d138912f13",
+        "contentDigest": "bbe77b588365e173aa3866778e244a76",
         "type": "Directory",
         "description": "Directory \"src/img/staffImg\"",
         "owner": "gatsby-source-filesystem"
@@ -3284,7 +3284,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-02-11T01:17:54.517Z",
-      "accessTime": "2019-02-11T01:19:12.415Z",
+      "accessTime": "2019-02-12T01:25:28.115Z",
       "changeTime": "2019-02-11T01:19:12.371Z",
       "birthTime": "2019-02-11T01:19:12.371Z",
       "root": "/",
@@ -3293,20 +3293,20 @@
       "ext": "",
       "name": "staffImg",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 15493,
+      "ino": 9421,
       "blocks": 8,
-      "atimeMs": 1549847952414.6997,
+      "atimeMs": 1549934728114.8264,
       "mtimeMs": 1549847874516.8293,
       "ctimeMs": 1549847952370.6965,
       "birthtimeMs": 1549847952370.6965,
-      "atime": "2019-02-11T01:19:12.415Z",
+      "atime": "2019-02-12T01:25:28.115Z",
       "mtime": "2019-02-11T01:17:54.517Z",
       "ctime": "2019-02-11T01:19:12.371Z",
       "birthtime": "2019-02-11T01:19:12.371Z"
@@ -3316,7 +3316,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ca1b067e7352420a342255b451167148",
+        "contentDigest": "f04392a82ab1d06647adf8774aa77d20",
         "type": "Directory",
         "description": "Directory \"src/img/teacher\"",
         "owner": "gatsby-source-filesystem"
@@ -3328,7 +3328,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2019-02-04T19:35:14.000Z",
-      "accessTime": "2019-02-11T14:41:04.801Z",
+      "accessTime": "2019-02-12T15:02:41.770Z",
       "changeTime": "2019-02-11T14:41:04.621Z",
       "birthTime": "2019-02-11T14:41:04.621Z",
       "root": "/",
@@ -3337,20 +3337,20 @@
       "ext": "",
       "name": "teacher",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9480,
+      "ino": 2407,
       "blocks": 8,
-      "atimeMs": 1549896064800.7878,
+      "atimeMs": 1549983761770.3752,
       "mtimeMs": 1549308914000,
       "ctimeMs": 1549896064620.7744,
       "birthtimeMs": 1549896064620.7744,
-      "atime": "2019-02-11T14:41:04.801Z",
+      "atime": "2019-02-12T15:02:41.770Z",
       "mtime": "2019-02-04T19:35:14.000Z",
       "ctime": "2019-02-11T14:41:04.621Z",
       "birthtime": "2019-02-11T14:41:04.621Z"
@@ -6661,224 +6661,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /fullstack": {
-      "jsonName": "fullstack-ce6",
-      "internalComponentName": "ComponentFullstack",
-      "path": "/fullstack",
-      "component": "/home/ubuntu/workspace/website/src/templates/course-template.js",
-      "componentChunkName": "component---src-templates-course-template-js",
-      "context": {
-        "slug": "fullstack"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/home/ubuntu/workspace/website/src/templates/course-template.js",
-      "id": "SitePage /fullstack",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "351ecfcbab5a1f7b1d7cb559390bf37f",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /caracas": {
-      "jsonName": "caracas-986",
-      "internalComponentName": "ComponentCaracas",
-      "path": "/caracas",
-      "component": "/home/ubuntu/workspace/website/src/templates/location-template.js",
-      "componentChunkName": "component---src-templates-location-template-js",
-      "context": {
-        "slug": "caracas"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/home/ubuntu/workspace/website/src/templates/location-template.js",
-      "id": "SitePage /caracas",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4ec098106d00f9d4e155817b66ba28ef",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /santiago": {
-      "jsonName": "santiago-a6f",
-      "internalComponentName": "ComponentSantiago",
-      "path": "/santiago",
-      "component": "/home/ubuntu/workspace/website/src/templates/location-template.js",
-      "componentChunkName": "component---src-templates-location-template-js",
-      "context": {
-        "slug": "santiago"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/home/ubuntu/workspace/website/src/templates/location-template.js",
-      "id": "SitePage /santiago",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d197efd93cecca7daa74125ed6737430",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about-us": {
-      "jsonName": "about-us-9d7",
-      "internalComponentName": "ComponentAboutUs",
-      "path": "/about-us",
-      "component": "/home/ubuntu/workspace/website/src/templates/about-us-template.js",
-      "componentChunkName": "component---src-templates-about-us-template-js",
-      "context": {
-        "slug": "about-us"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/home/ubuntu/workspace/website/src/templates/about-us-template.js",
-      "id": "SitePage /about-us",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "859f2020c211ef64a8a8041376830647",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /upcoming-programs": {
-      "jsonName": "upcoming-programs-13d",
-      "internalComponentName": "ComponentUpcomingPrograms",
-      "path": "/upcoming-programs",
-      "component": "/home/ubuntu/workspace/website/src/templates/upcoming-programs-template.js",
-      "componentChunkName": "component---src-templates-upcoming-programs-template-js",
-      "context": {
-        "slug": "upcoming-programs"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/home/ubuntu/workspace/website/src/templates/upcoming-programs-template.js",
-      "id": "SitePage /upcoming-programs",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0a094581d7c9a6ebee2b20a17e9af090",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /apply": {
-      "jsonName": "apply-4da",
-      "internalComponentName": "ComponentApply",
-      "path": "/apply",
-      "component": "/home/ubuntu/workspace/website/src/templates/apply-template.js",
-      "componentChunkName": "component---src-templates-apply-template-js",
-      "context": {
-        "slug": "apply"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/home/ubuntu/workspace/website/src/templates/apply-template.js",
-      "id": "SitePage /apply",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d1fbd1e8cc415769baa7683b57098079",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /partners": {
-      "jsonName": "partners-789",
-      "internalComponentName": "ComponentPartners",
-      "path": "/partners",
-      "component": "/home/ubuntu/workspace/website/src/templates/partners-template.js",
-      "componentChunkName": "component---src-templates-partners-template-js",
-      "context": {
-        "slug": "partners"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/home/ubuntu/workspace/website/src/templates/partners-template.js",
-      "id": "SitePage /partners",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d1fc500612c774a5ca83779066f0c4c8",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /fulltime": {
-      "jsonName": "fulltime-57b",
-      "internalComponentName": "ComponentFulltime",
-      "path": "/fulltime",
-      "component": "/home/ubuntu/workspace/website/src/templates/fulltime.js",
-      "componentChunkName": "component---src-templates-fulltime-js",
-      "context": {
-        "slug": "fulltime"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/home/ubuntu/workspace/website/src/templates/fulltime.js",
-      "id": "SitePage /fulltime",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fd46261bf219658814391523bf820fc2",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /introcoding": {
-      "jsonName": "introcoding-620",
-      "internalComponentName": "ComponentIntrocoding",
-      "path": "/introcoding",
-      "component": "/home/ubuntu/workspace/website/src/templates/introcoding.js",
-      "componentChunkName": "component---src-templates-introcoding-js",
-      "context": {
-        "slug": "introcoding"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/home/ubuntu/workspace/website/src/templates/introcoding.js",
-      "id": "SitePage /introcoding",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "15e08887f07d52a46bca889e316b389e",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "jsonName": "index",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/home/ubuntu/workspace/website/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "1d3cd586-b5c8-5331-bc29-6ad077bfa803",
-      "pluginCreatorId": "1d3cd586-b5c8-5331-bc29-6ad077bfa803",
-      "componentPath": "/home/ubuntu/workspace/website/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1d1924d03f31e6dc333893b2beb47508",
-        "description": "1d3cd586-b5c8-5331-bc29-6ad077bfa803",
-        "owner": "internal-data-bridge"
-      }
-    },
     "57cf8b8a-6fe4-5b64-a7f3-58289a98319b": {
       "id": "57cf8b8a-6fe4-5b64-a7f3-58289a98319b",
       "children": [
@@ -7226,7 +7008,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "754b4cd4f79edf351da6ebafca78e46c",
+        "contentDigest": "d2e2b576727554a3cfd96e7506b5b8a3",
         "type": "Directory",
         "description": "Directory \"src/img/initiatives\"",
         "owner": "gatsby-source-filesystem"
@@ -7237,33 +7019,33 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2019-02-11T20:17:25.762Z",
-      "accessTime": "2019-02-11T20:17:25.810Z",
-      "changeTime": "2019-02-11T20:17:28.826Z",
-      "birthTime": "2019-02-11T20:17:28.826Z",
+      "modifiedTime": "2019-02-11T20:38:06.819Z",
+      "accessTime": "2019-02-12T23:38:29.127Z",
+      "changeTime": "2019-02-11T20:38:06.819Z",
+      "birthTime": "2019-02-11T20:38:06.819Z",
       "root": "/",
       "dir": "/home/ubuntu/workspace/website/src/img",
       "base": "initiatives",
       "ext": "",
       "name": "initiatives",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 18112,
+      "ino": 2405,
       "blocks": 8,
-      "atimeMs": 1549916245809.779,
-      "mtimeMs": 1549916245761.7756,
-      "ctimeMs": 1549916248826.0066,
-      "birthtimeMs": 1549916248826.0066,
-      "atime": "2019-02-11T20:17:25.810Z",
-      "mtime": "2019-02-11T20:17:25.762Z",
-      "ctime": "2019-02-11T20:17:28.826Z",
-      "birthtime": "2019-02-11T20:17:28.826Z"
+      "atimeMs": 1550014709126.8096,
+      "mtimeMs": 1549917486819.3115,
+      "ctimeMs": 1549917486819.3115,
+      "birthtimeMs": 1549917486819.3115,
+      "atime": "2019-02-12T23:38:29.127Z",
+      "mtime": "2019-02-11T20:38:06.819Z",
+      "ctime": "2019-02-11T20:38:06.819Z",
+      "birthtime": "2019-02-11T20:38:06.819Z"
     },
     "2e328475-a440-5dd0-8f6d-e69c9407e265": {
       "id": "2e328475-a440-5dd0-8f6d-e69c9407e265",
@@ -7555,7 +7337,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "de74285e783e1cc0a41cfc6693535696",
+        "contentDigest": "b19ed70fc9bbb6bea4d0548cc6253dc5",
         "type": "Directory",
         "description": "Directory \"src/img/influencers\"",
         "owner": "gatsby-source-filesystem"
@@ -7566,33 +7348,33 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2019-02-11T20:26:49.980Z",
-      "accessTime": "2019-02-11T20:26:49.984Z",
-      "changeTime": "2019-02-11T20:26:53.345Z",
-      "birthTime": "2019-02-11T20:26:53.345Z",
+      "modifiedTime": "2019-02-11T20:27:18.230Z",
+      "accessTime": "2019-02-12T23:38:29.127Z",
+      "changeTime": "2019-02-11T20:27:18.230Z",
+      "birthTime": "2019-02-11T20:27:18.230Z",
       "root": "/",
       "dir": "/home/ubuntu/workspace/website/src/img",
       "base": "influencers",
       "ext": "",
       "name": "influencers",
       "relativeDirectory": "",
-      "dev": 181,
+      "dev": 1048619,
       "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 18120,
+      "ino": 2404,
       "blocks": 8,
-      "atimeMs": 1549916809984.2974,
-      "mtimeMs": 1549916809980.297,
-      "ctimeMs": 1549916813344.5505,
-      "birthtimeMs": 1549916813344.5505,
-      "atime": "2019-02-11T20:26:49.984Z",
-      "mtime": "2019-02-11T20:26:49.980Z",
-      "ctime": "2019-02-11T20:26:53.345Z",
-      "birthtime": "2019-02-11T20:26:53.345Z"
+      "atimeMs": 1550014709126.8096,
+      "mtimeMs": 1549916838230.426,
+      "ctimeMs": 1549916838230.426,
+      "birthtimeMs": 1549916838230.426,
+      "atime": "2019-02-12T23:38:29.127Z",
+      "mtime": "2019-02-11T20:27:18.230Z",
+      "ctime": "2019-02-11T20:27:18.230Z",
+      "birthtime": "2019-02-11T20:27:18.230Z"
     },
     "7dbd0ff5-ae88-5af4-8371-5fc84a923da3": {
       "id": "7dbd0ff5-ae88-5af4-8371-5fc84a923da3",
@@ -8163,6 +7945,224 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
+    },
+    "SitePage /fullstack": {
+      "jsonName": "fullstack-ce6",
+      "internalComponentName": "ComponentFullstack",
+      "path": "/fullstack",
+      "component": "/home/ubuntu/workspace/website/src/templates/course-template.js",
+      "componentChunkName": "component---src-templates-course-template-js",
+      "context": {
+        "slug": "fullstack"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/ubuntu/workspace/website/src/templates/course-template.js",
+      "id": "SitePage /fullstack",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "351ecfcbab5a1f7b1d7cb559390bf37f",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /caracas": {
+      "jsonName": "caracas-986",
+      "internalComponentName": "ComponentCaracas",
+      "path": "/caracas",
+      "component": "/home/ubuntu/workspace/website/src/templates/location-template.js",
+      "componentChunkName": "component---src-templates-location-template-js",
+      "context": {
+        "slug": "caracas"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/ubuntu/workspace/website/src/templates/location-template.js",
+      "id": "SitePage /caracas",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4ec098106d00f9d4e155817b66ba28ef",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /santiago": {
+      "jsonName": "santiago-a6f",
+      "internalComponentName": "ComponentSantiago",
+      "path": "/santiago",
+      "component": "/home/ubuntu/workspace/website/src/templates/location-template.js",
+      "componentChunkName": "component---src-templates-location-template-js",
+      "context": {
+        "slug": "santiago"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/ubuntu/workspace/website/src/templates/location-template.js",
+      "id": "SitePage /santiago",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d197efd93cecca7daa74125ed6737430",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about-us": {
+      "jsonName": "about-us-9d7",
+      "internalComponentName": "ComponentAboutUs",
+      "path": "/about-us",
+      "component": "/home/ubuntu/workspace/website/src/templates/about-us-template.js",
+      "componentChunkName": "component---src-templates-about-us-template-js",
+      "context": {
+        "slug": "about-us"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/ubuntu/workspace/website/src/templates/about-us-template.js",
+      "id": "SitePage /about-us",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "859f2020c211ef64a8a8041376830647",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /upcoming-programs": {
+      "jsonName": "upcoming-programs-13d",
+      "internalComponentName": "ComponentUpcomingPrograms",
+      "path": "/upcoming-programs",
+      "component": "/home/ubuntu/workspace/website/src/templates/upcoming-programs-template.js",
+      "componentChunkName": "component---src-templates-upcoming-programs-template-js",
+      "context": {
+        "slug": "upcoming-programs"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/ubuntu/workspace/website/src/templates/upcoming-programs-template.js",
+      "id": "SitePage /upcoming-programs",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0a094581d7c9a6ebee2b20a17e9af090",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /apply": {
+      "jsonName": "apply-4da",
+      "internalComponentName": "ComponentApply",
+      "path": "/apply",
+      "component": "/home/ubuntu/workspace/website/src/templates/apply-template.js",
+      "componentChunkName": "component---src-templates-apply-template-js",
+      "context": {
+        "slug": "apply"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/ubuntu/workspace/website/src/templates/apply-template.js",
+      "id": "SitePage /apply",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d1fbd1e8cc415769baa7683b57098079",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /partners": {
+      "jsonName": "partners-789",
+      "internalComponentName": "ComponentPartners",
+      "path": "/partners",
+      "component": "/home/ubuntu/workspace/website/src/templates/partners-template.js",
+      "componentChunkName": "component---src-templates-partners-template-js",
+      "context": {
+        "slug": "partners"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/ubuntu/workspace/website/src/templates/partners-template.js",
+      "id": "SitePage /partners",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d1fc500612c774a5ca83779066f0c4c8",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /fulltime": {
+      "jsonName": "fulltime-57b",
+      "internalComponentName": "ComponentFulltime",
+      "path": "/fulltime",
+      "component": "/home/ubuntu/workspace/website/src/templates/fulltime.js",
+      "componentChunkName": "component---src-templates-fulltime-js",
+      "context": {
+        "slug": "fulltime"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/ubuntu/workspace/website/src/templates/fulltime.js",
+      "id": "SitePage /fulltime",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fd46261bf219658814391523bf820fc2",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /introcoding": {
+      "jsonName": "introcoding-620",
+      "internalComponentName": "ComponentIntrocoding",
+      "path": "/introcoding",
+      "component": "/home/ubuntu/workspace/website/src/templates/introcoding.js",
+      "componentChunkName": "component---src-templates-introcoding-js",
+      "context": {
+        "slug": "introcoding"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/ubuntu/workspace/website/src/templates/introcoding.js",
+      "id": "SitePage /introcoding",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "15e08887f07d52a46bca889e316b389e",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/ubuntu/workspace/website/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "1d3cd586-b5c8-5331-bc29-6ad077bfa803",
+      "pluginCreatorId": "1d3cd586-b5c8-5331-bc29-6ad077bfa803",
+      "componentPath": "/home/ubuntu/workspace/website/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1d1924d03f31e6dc333893b2beb47508",
+        "description": "1d3cd586-b5c8-5331-bc29-6ad077bfa803",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -8243,12 +8243,15 @@
     },
     "connections": {
       "CoursesYaml": [
+        null,
         null
       ],
       "LocationsYaml": [
+        null,
         null
       ],
       "DataYaml": [
+        null,
         null
       ]
     }
